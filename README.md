@@ -2,6 +2,7 @@
 
 🌱 I’m currently learning web development.
 
+### I work with
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,graphql,apollo,materialui,html,css,javascript,git,linux,mysql,heroku&theme=light&perline=4)](https://skillicons.dev)
 
 ### Connect with me
