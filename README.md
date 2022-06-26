@@ -2,7 +2,6 @@
 
 🌱 I’m currently learning web development.
 
-<!--[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,graphql,apollo,materialui,html,css,javascript,git,linux,mysql&theme=light)](https://skillicons.dev)-->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,graphql,apollo,materialui,html,css,javascript,git,linux,mysql&theme=light" />
