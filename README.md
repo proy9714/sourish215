@@ -1,6 +1,9 @@
 ### Hi there 👋, my name is Sourish
 
 🌱 I’m currently learning web development.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif" width="100"/>
+</div>
 
 ### I work with
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,graphql,apollo,materialui,html,css,javascript,git,linux,mysql,heroku&theme=light&perline=4)](https://skillicons.dev)
