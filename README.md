@@ -1,4 +1,3 @@
-### Hi there 👋, my name is Sourish
 <h1 align="center">Hi there 👋, my name is Sourish</h1>
 
 🌱 I’m currently learning web development.
