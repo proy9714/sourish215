@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I am Sourish</h1>
 
 ### 🌱 I’m currently learning web development.
-<div id="header" align="center">
+<!--- <div id="header" align="center">
   <img src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif" width="300"/>
-</div>
+</div> --->
 
 ### :hammer_and_wrench: Languages and Tools :
 
