@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I am Sourish</h1>
 
-### 🌱 I’m currently learning web development.
+### 🌱 I’m currently learning web development using the languages and tools below.
 <!--- <div id="header" align="center">
   <img src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif" width="300"/>
 </div> --->
